@@ -47,3 +47,8 @@ I choose the 1280X720 image above for this part
 ![](https://purdue0-my.sharepoint.com/personal/wei209_purdue_edu/_layouts/15/guestaccess.aspx?docid=1258fb4333c2b434a8a4be15bff048c08&authkey=Ab6DZZ_wef_Wdxb0H0cWCaw)
 
 ## part D
+I use the same size image in B.
+#### time taken for operation as a function of i in C:
+![](https://purdue0-my.sharepoint.com/personal/wei209_purdue_edu/_layouts/15/guestaccess.aspx?docid=1017b72c0d6654a1c8e64db0cb0d257f7&authkey=AXW3qq38tkmJ4-MV58oPCMg)
+
+compared to result in part B, C runs faster than python.

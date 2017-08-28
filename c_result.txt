@@ -1,0 +1,12 @@
+i=0,time_taken:0.002536
+i=1,time_taken:0.008426
+i=2,time_taken:0.015539
+i=3,time_taken:0.026832
+i=4,time_taken:0.039934
+i=5,time_taken:0.089413
+i=6,time_taken:0.191994
+i=7,time_taken:0.291080
+i=8,time_taken:0.592467
+i=9,time_taken:1.168733
+i=10,time_taken:2.355494
+i=11,time_taken:4.767415

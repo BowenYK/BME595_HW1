@@ -35,16 +35,16 @@ plt.ylabel('number of operation')
 plt.xlabel('kernel size')
 plt.savefig('operation.jpg')
 #%%
-time_taken=np.zeros(11,dtype=np.int)
+time_taken=np.zeros(12,dtype=np.int)
 n=0
-for k in np.power(2,range(0,11)):
+for k in np.power(2,range(0,12)):
     conv2d = Conv2D(in_channel=3, o_channel=k, kernel_size=1, stride=1,mode='rand')
     start=time.clock()
     [num_operation,output_image] = conv2d.forward(input_image)
     time_taken[n]=time.clock()-start
     n+=1
  #%%
-plt.plot(range(0,11),time_taken)
+plt.plot(range(0,12),time_taken)
 plt.ylabel('time taken in seconds')
 plt.xlabel('i')
 plt.savefig('time_taken.jpg')
